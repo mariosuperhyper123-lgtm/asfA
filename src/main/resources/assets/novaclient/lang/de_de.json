@@ -1,0 +1,16 @@
+{
+  "key.novaclient.clickgui": "ClickGUI öffnen",
+  "key.novaclient.fullbright": "Fullbright umschalten",
+  "key.novaclient.zoom": "Zoom (halten)",
+  "key.novaclient.hud": "HUD umschalten",
+  "key.novaclient.autotool": "AutoTool umschalten",
+  "key.novaclient.mobchunks": "MobChunks umschalten",
+  "key.novaclient.viewmodel": "ViewModel umschalten",
+  "key.novaclient.entityesp": "EntityESP umschalten",
+  "key.novaclient.blockesp": "BlockESP umschalten",
+  "key.category.novaclient.main": "Nova Client",
+  "key.novaclient.freecam": "FreeCam umschalten",
+  "key.novaclient.freelook": "FreeLook (halten)",
+  "key.novaclient.customsky": "CustomSky umschalten",
+  "key.novaclient.galaxypickaxe": "GalaxyPickaxe umschalten"
+}

@@ -1,0 +1,16 @@
+{
+  "key.novaclient.clickgui": "Open ClickGUI",
+  "key.novaclient.fullbright": "Toggle Fullbright",
+  "key.novaclient.zoom": "Zoom (hold)",
+  "key.novaclient.hud": "Toggle HUD",
+  "key.novaclient.autotool": "Toggle AutoTool",
+  "key.novaclient.mobchunks": "Toggle MobChunks",
+  "key.novaclient.viewmodel": "Toggle ViewModel",
+  "key.novaclient.entityesp": "Toggle EntityESP",
+  "key.novaclient.blockesp": "Toggle BlockESP",
+  "key.category.novaclient.main": "Nova Client",
+  "key.novaclient.freecam": "Toggle FreeCam",
+  "key.novaclient.freelook": "FreeLook (hold)",
+  "key.novaclient.customsky": "Toggle CustomSky",
+  "key.novaclient.galaxypickaxe": "Toggle GalaxyPickaxe"
+}
